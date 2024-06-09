@@ -1,0 +1,2 @@
+Manifest-Version: 1.0
+Icon-Path: im/logo.ico
